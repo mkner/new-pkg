@@ -4,7 +4,8 @@
 | Template for building python
 | packages and RTD documentation
 |
-| Build uses setuptools and setup.cfg 
+| Build uses setuptools
+
 
 
 
