@@ -1,7 +1,7 @@
 
 # newpkg
 
-__version__ = 'v0.01.01c'
+__version__ = 'v0.01.01'
 
 # import acts to export 
 
