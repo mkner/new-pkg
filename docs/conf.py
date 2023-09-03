@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Base objects for mobile robotics modules"
+project = "new-pkg - test template use setuptools"
 copyright = "(c) 2023 Mike Knerr"
 author = ""
 
