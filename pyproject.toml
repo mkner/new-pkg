@@ -28,6 +28,11 @@ classifiers = [
 homepage = "https://github.com/mkner/new-pkg/"
 
 
+[tool.setuptools.packages]
+find = {}
+
+
+
 
 
 
