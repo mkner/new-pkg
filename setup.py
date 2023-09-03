@@ -10,7 +10,7 @@ DESCRIPTION = "test project using setuptools"
 if __name__ == "__main__":
     setup()
  
-#mk what this to work after pip install
+#mk  works 9/3
 
 import newpkg
 
