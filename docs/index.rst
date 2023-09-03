@@ -9,6 +9,8 @@ new-pkgsetup
 
    install
    interface
+   example
+
 
   
 
