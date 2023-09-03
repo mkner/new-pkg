@@ -1,4 +1,4 @@
-**new-pkg**
+**new-pkgsetup**
 
 Test package
 
