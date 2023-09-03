@@ -13,8 +13,11 @@ class Package(object):
        
      def whoami(self):
           print(self._name,self._vers,self._model)
+         
      def name(self):
           print(self._name)
+         
      def vers(self):
           return self._vers
+         
        
