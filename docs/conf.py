@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "new-pkg - test template use setuptools"
+project = "new-pkgsetup - template for setuptools"
 copyright = "(c) 2023 Mike Knerr"
 author = ""
 
