@@ -8,6 +8,8 @@ new-pkgsetup
    :maxdepth: 1
 
    install
+   interface
+
   
 
 
