@@ -5,18 +5,22 @@ Example
 
 For example:
 
-import newpkg
+.. code-block:: python
 
-from newpkg import Package
+   import newpkg
+   import newpkg as np
 
-p = Package()
+   from newpkg import Package
 
-p.name()
-Package
+   p = Package()
 
-p.whoami()
-Package v0.01.01b 
+   p.name()
+   Package
 
+   p.whoami()
+   Package v0.01.01b 
+
+  
 
 
 
