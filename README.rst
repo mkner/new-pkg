@@ -1,8 +1,11 @@
 **new-pkgsetup**
 
 |
-| Template for using setuptools 
-| to build packages and RTD documentation
+| Template for building python
+| packages and RTD documentation
+|
+| Build uses setuptools and setup.cfg 
+
 
 
 
