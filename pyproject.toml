@@ -31,6 +31,11 @@ homepage = "https://github.com/mkner/new-pkg/"
 [tool.setuptools.packages]
 find = {}
 
+[tool.setuptools.packages.find]
+#where = ["src"]  # list of folders that contain the packages (["."] by default)
+include = ["newpkg"] #include = ["my_package*"]  # package names should match these glob patterns (["*"] by default)
+#exclude = ["my_package.tests*"]  # exclude packages matching these glob patterns (empty by default)
+#namespaces = false  # to disable scanning PEP 420 namespaces (true by default)
 
 
 
