@@ -18,9 +18,8 @@ Example
    p.whoami()
    Package v0.01.01b 
 
-  import newpkg
+   import newpkg
 
-from newpkg import Package
 
 
 
