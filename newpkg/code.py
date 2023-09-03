@@ -4,9 +4,9 @@ class Package(object):
      def __init__(self): #,instance="Instance Name"):
          self._id = id(self)
          self._name="Package"
-         self._desc="Package for test pypi build"
-         self._vers="v0.01.01" 
-         self._model = "" # more for derived classes
+         self._desc="Package for test builds"
+         self._vers="v0.01.01c" 
+         self._model = "" 
          self._about="About package class"
          self._instance_name = ""
          self._debug_flag = False
