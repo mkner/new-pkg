@@ -3,8 +3,6 @@
 Example
 -------
 
-For example:
-
 .. code-block:: python
 
    import newpkg
