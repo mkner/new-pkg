@@ -20,9 +20,10 @@ Interface
    returns version number of class
    in format x.y.z<w>
 
-.. method:: whoami()
 
-   returns what it asks for!
+ .. method:: whoami()
+
+    returns what it asks for!
 
  
 
