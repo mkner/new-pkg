@@ -2,7 +2,7 @@
 Interface
 ---------
 
-.. class:: Project()
+.. class:: Package()
 
 
  .. method:: name()
@@ -20,10 +20,13 @@ Interface
    returns version number of class
    in format x.y.z<w>
 
+.. method:: whoami()
 
- .. method:: f(x)
+   returns what it asks for!
 
-   returns the input value **x** and thats it
+ 
+
+
    
 
 
