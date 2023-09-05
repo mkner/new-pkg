@@ -13,12 +13,14 @@ Example
    p = Package()
 
    p.name()
-   Package
-
    p.whoami()
-   Package v0.01.01b 
 
-   import newpkg
+   p2 = np.Package()
+   p2.vers()
+
+
+
+
 
 
 
