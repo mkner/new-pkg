@@ -1,4 +1,6 @@
-**Project template for both python packages & Read The Docs*
+
+**Project template for both python packages & Read The Docs**
+
 |
 | Basic directory structures and template files for building both
 | python pypipackages and documentation for RTD (Read The Docs)
