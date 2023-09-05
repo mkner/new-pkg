@@ -3,7 +3,7 @@
 
 |
 | Basic directory structures and template files for building both
-| python pypipackages and documentation for RTD (Read The Docs)
+| python pypi packages and documentation for RTD (Read The Docs)
 | using the sphinx theme.
 
 |
