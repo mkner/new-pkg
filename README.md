@@ -1,7 +1,8 @@
 **Project template for both python packages & Read The Docs**
 
-Basic directory structures and template files for building both python pypi
-packages and documentation for RTD (Read The Docs) using the sphinx theme.
+Basic directory structures and template files for building\
+both python pypipackages and documentation for RTD (Read The Docs)\
+using the sphinx theme.
 
 Configuration is for setup.cfg and setuptools
 
