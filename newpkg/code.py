@@ -1,6 +1,5 @@
 class Package(object):
     
-     # successive classes override these in their init
      def __init__(self): #,instance="Instance Name"):
          self._id = id(self)
          self._name="Package"
