@@ -8,6 +8,7 @@
 
 |
 | Configuration is for setup.cfg and setuptools
+|
 | This set of example directories and files actually build *both* RTD and PYPI !
 |
 | Python package release here: https://pypi.org/project/new-pkgsetup/
